@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Redo_ck-placeholder</name>
+   <tag></tag>
+   <elementGuidId>9f861073-91a9-4620-ae97-9bb74a35e7e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pcoded']/div[2]/div/div/div/div/div[2]/form/div[12]/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ck-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rich Text Editor&quot;i >> internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>07f1f6ac-6f71-4e6a-92a7-b57b5ce71959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ck-placeholder</value>
+      <webElementGuid>fa33cd75-4cb5-48c7-b1c4-a7ea6dcff90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Enter Content</value>
+      <webElementGuid>0116546c-d687-4bc7-bd68-4a8cfeb44139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pcoded&quot;)/div[@class=&quot;pcoded-container navbar-wrapper&quot;]/div[@class=&quot;pcoded-main-container&quot;]/div[@class=&quot;pcoded-wrapper&quot;]/div[@class=&quot;pcoded-content&quot;]/div[@class=&quot;pcoded-inner-content&quot;]/div[@class=&quot;card&quot;]/form[1]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-md-11&quot;]/div[@class=&quot;ck ck-reset ck-editor ck-rounded-corners&quot;]/div[@class=&quot;ck ck-editor__main&quot;]/div[@class=&quot;ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-focused&quot;]/p[@class=&quot;ck-placeholder&quot;]</value>
+      <webElementGuid>7a238625-e53f-44bc-9632-31c3b70083b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pcoded']/div[2]/div/div/div/div/div[2]/form/div[12]/div/div/div[2]/div/p</value>
+      <webElementGuid>d5842ff8-4df8-4525-b91e-9f410e4299b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redo'])[1]/following::p[1]</value>
+      <webElementGuid>2c39e9e5-7163-4a6b-8ea4-35b3a06457c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undo'])[1]/following::p[1]</value>
+      <webElementGuid>be8700f8-3768-43fc-a400-b9506eb4c603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Products'])[1]/preceding::p[1]</value>
+      <webElementGuid>66c058eb-d18a-437f-9d31-946039f1726e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
+      <webElementGuid>746dac25-2d82-41b7-8c27-9d4a63c7abb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>ef39315c-b290-4ba5-a2f1-869df6a9dc22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thay đổi vai trò nhân viên</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64daf897-0f81-4365-88b0-ce00e62636b3</testCaseGuid>
+</TestCaseEntity>

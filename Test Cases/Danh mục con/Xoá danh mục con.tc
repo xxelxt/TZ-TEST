@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xoá danh mục con</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>263d1ea2-30d3-4741-905a-d931ab17356f</testCaseGuid>
+</TestCaseEntity>

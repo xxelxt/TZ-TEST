@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xoá thương hiệu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d507b2df-87ef-4e0c-acf0-dc4da2b9eca6</testCaseGuid>
+</TestCaseEntity>

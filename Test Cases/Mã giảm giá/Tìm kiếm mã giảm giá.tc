@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tìm kiếm mã giảm giá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28ff74f4-6d5e-4191-abe6-7a35bf214597</testCaseGuid>
+</TestCaseEntity>

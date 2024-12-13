@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm nhân viên</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6cc06d38-dd3b-4bfd-960b-ac78abe5cb53</testCaseGuid>
+</TestCaseEntity>

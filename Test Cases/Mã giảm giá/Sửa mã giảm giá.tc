@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sửa mã giảm giá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f415dacd-9e22-4dcf-9b36-b0909b50fb08</testCaseGuid>
+</TestCaseEntity>

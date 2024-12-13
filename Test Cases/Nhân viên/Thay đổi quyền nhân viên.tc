@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thay đổi quyền nhân viên</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5ea2d60-1294-404c-8afa-1ed509c05e95</testCaseGuid>
+</TestCaseEntity>

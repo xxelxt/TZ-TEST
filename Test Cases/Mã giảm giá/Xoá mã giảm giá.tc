@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xoá mã giảm giá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6aee7861-286c-4024-a34d-54e2a8330ba0</testCaseGuid>
+</TestCaseEntity>

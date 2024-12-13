@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Roles</name>
+   <tag></tag>
+   <elementGuidId>ee6b2f12-a163-40d3-a405-49e1165b369b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='autofill']/tbody/tr/td[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(9) > a.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;17 lanchitechzone Lan Chi lanchitechzone@gmail.com staff 13-12-2024 20:47:32 13-12-2024 20:49:34 On Off Roles Permissions Edit Delete&quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>809e5497-4faf-4145-9c03-5824018d5b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>9f15807d-cf43-40f9-8d4e-6c3b724d1fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin/staff/role/17</value>
+      <webElementGuid>f38da2c0-d63f-4299-b21d-480efabca9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Roles</value>
+      <webElementGuid>3758659c-510f-4ce5-8de8-1116e7fd771d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autofill&quot;)/tbody[1]/tr[1]/td[9]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>cdb1d8b9-b924-4934-8e7d-b65a5ca3f663</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='autofill']/tbody/tr/td[9]/a</value>
+      <webElementGuid>9335c439-0a52-4f5d-a439-ee3deb25b87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Roles')]</value>
+      <webElementGuid>dedf2f13-4f2c-4a15-8ba8-bc6f9642c7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Off'])[1]/following::a[1]</value>
+      <webElementGuid>7c569c6e-4b7b-47f2-8008-ca363e86a8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On'])[1]/following::a[1]</value>
+      <webElementGuid>c3c9102a-daec-43db-a3b6-9a8a4a2b4c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[1]/preceding::a[1]</value>
+      <webElementGuid>5e00463a-0d8a-4b90-a39c-77b3415c264c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::a[2]</value>
+      <webElementGuid>1406918c-c6a8-4359-850a-224d9ceeb02c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin/staff/role/17')]</value>
+      <webElementGuid>b6be7cdb-2e41-42dd-a539-3ec303047e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a</value>
+      <webElementGuid>0002f8c9-56e1-4408-b204-309a37e423a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin/staff/role/17' and (text() = 'Roles' or . = 'Roles')]</value>
+      <webElementGuid>6a8ccfa1-8c15-40ce-84ee-6f79ceb08692</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
