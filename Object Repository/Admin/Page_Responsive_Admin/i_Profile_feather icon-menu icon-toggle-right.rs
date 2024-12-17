@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Profile_feather icon-menu icon-toggle-right</name>
+   <tag></tag>
+   <elementGuidId>f1d88a7e-e900-44fb-b6fc-250fd1605cc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.feather.icon-menu.icon-toggle-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='mobile-collapse']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9c8db615-41f2-4f43-a532-acdfb2da3651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feather icon-menu icon-toggle-right</value>
+      <webElementGuid>16f05a1a-4a3f-4608-91a7-f4ae1ac6b82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobile-collapse&quot;)/i[@class=&quot;feather icon-menu icon-toggle-right&quot;]</value>
+      <webElementGuid>a6c19763-fc41-4a0c-9d1c-730e1bfefce0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='mobile-collapse']/i</value>
+      <webElementGuid>277513a4-6b6c-40fd-840d-abc35237aea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>81ee4cd6-4f56-4f23-b0fe-07b89fcf26dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

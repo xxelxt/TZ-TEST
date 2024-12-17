@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>2de8001e-c171-42aa-b730-0ea534e62d90</dataFileGUID>
-   <dataSourceUrl>C:\Users\Elt\Desktop\Katalon\Data_Login.csv</dataSourceUrl>
+   <dataSourceUrl>E:\rkive\7\Software Testing &amp; QA\Katalon Studio\TechZone\Data_Login.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

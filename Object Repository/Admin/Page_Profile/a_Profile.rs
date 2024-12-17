@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Profile</name>
+   <tag></tag>
+   <elementGuidId>5320689a-b5b3-490d-8fbf-fa512f16503f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pcoded']/div[2]/nav/div/div[2]/ul/li/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f7439975-8002-4dca-954e-c38b39dfe74c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin/profile</value>
+      <webElementGuid>75d4846c-f89c-436a-8a93-3cd35d77f3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                     Profile                                </value>
+      <webElementGuid>033c4285-0591-4f3e-a8b6-b33ea05cb3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pcoded&quot;)/div[@class=&quot;pcoded-container navbar-wrapper&quot;]/nav[@class=&quot;navbar header-navbar pcoded-header iscollapsed&quot;]/div[@class=&quot;navbar-wrapper&quot;]/div[@class=&quot;navbar-container container-fluid&quot;]/ul[@class=&quot;nav-right&quot;]/li[@class=&quot;user-profile header-notification&quot;]/div[@class=&quot;dropdown-primary dropdown open show&quot;]/ul[@class=&quot;show-notification profile-notification dropdown-menu show&quot;]/li[1]/a[1]</value>
+      <webElementGuid>da45b587-0dca-4831-944d-aa45c32ddfb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pcoded']/div[2]/nav/div/div[2]/ul/li/div/ul/li/a</value>
+      <webElementGuid>21908ea1-0b20-4e75-8ff9-7ae3f515417e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[1]/preceding::a[2]</value>
+      <webElementGuid>08afc1f3-d9a4-46f9-8595-110e13c90907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
+      <webElementGuid>41cd80f5-0368-4530-8fdf-bdf055ee9619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin/profile')]</value>
+      <webElementGuid>5fc005fa-ee04-4676-9895-d191d611bf18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>aa333cbe-e256-4917-8e82-504ae1c924a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin/profile' and (text() = '
+                                     Profile                                ' or . = '
+                                     Profile                                ')]</value>
+      <webElementGuid>f77a0e76-ce29-4f65-a576-201d69990ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

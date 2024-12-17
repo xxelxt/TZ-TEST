@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add</name>
+   <tag></tag>
+   <elementGuidId>44d408db-a158-4727-b961-2a993f594220</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pcoded']/div[2]/div/div/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>03f23949-863b-4632-8fdd-edcd2a03370f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin/discounts/create</value>
+      <webElementGuid>34936ba4-bfa6-4ad1-9bac-9af88ff8536f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>5ed2c1aa-e333-46d5-afd9-ae3ab17711ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Add            </value>
+      <webElementGuid>3b2cf397-ac7f-471c-a6df-56e699894eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pcoded&quot;)/div[@class=&quot;pcoded-container navbar-wrapper&quot;]/div[@class=&quot;pcoded-main-container&quot;]/div[@class=&quot;pcoded-wrapper&quot;]/div[@class=&quot;pcoded-content&quot;]/div[@class=&quot;pcoded-inner-content&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-auto&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>38c5ff21-42bf-4bde-afd9-e2fa82704f90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pcoded']/div[2]/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>c7d4cdc7-1328-4fbc-ae66-e71f6a2431a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add')]</value>
+      <webElementGuid>b597ff9e-fb10-4e12-875d-fd8edab75aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discounts'])[2]/following::a[1]</value>
+      <webElementGuid>0edc86a6-b776-40c5-86b6-7bc16f3b6e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>7dfc7838-63cd-4ad9-a71b-2d80c2111465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete all'])[1]/preceding::a[1]</value>
+      <webElementGuid>a77d5c56-d4dd-4ca3-8afe-4bef54dc5503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>d463dc8d-7c44-4625-beb0-82775894d9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>0d32e5f3-0003-4580-90d2-f7248cca4ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin/discounts/create')]</value>
+      <webElementGuid>fa330422-c8d8-4c91-af83-4dcd7e7df8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>87c883f4-7f5f-4346-a8cf-7fdc1541efc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin/discounts/create' and (text() = '
+                Add            ' or . = '
+                Add            ')]</value>
+      <webElementGuid>533efefc-6ec5-4483-87e5-8f99a3d47d1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

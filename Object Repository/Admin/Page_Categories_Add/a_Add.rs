@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add</name>
+   <tag></tag>
+   <elementGuidId>e27d899c-8e09-40b4-a943-221e7e0a9a1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pcoded']/div[2]/div/div/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1829ef9b-f189-420d-8581-f47ac155b1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin/categories/create</value>
+      <webElementGuid>e22c174a-ae8c-4a04-bd24-c8d6a5bce5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>47cfb912-a0b4-48f0-8a62-714f1a585c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Add            </value>
+      <webElementGuid>9452d0c6-0054-4230-8e8f-59d8df30b097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pcoded&quot;)/div[@class=&quot;pcoded-container navbar-wrapper&quot;]/div[@class=&quot;pcoded-main-container&quot;]/div[@class=&quot;pcoded-wrapper&quot;]/div[@class=&quot;pcoded-content&quot;]/div[@class=&quot;pcoded-inner-content&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-auto&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>e2598719-7adc-4d2e-9e27-9dbef20402fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pcoded']/div[2]/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>5b6543a8-21e4-4f32-9e7e-fe984af2c545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add')]</value>
+      <webElementGuid>c10fb46e-648c-466f-8704-65e24b6242d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[2]/following::a[1]</value>
+      <webElementGuid>e6722a71-f43b-4694-b3fe-6c4e0a28ac6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>bf5dee6d-eb0a-4edd-a13f-5640fcfb83d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete all'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d53e561-d0d7-4569-ac64-f8d20bd1af8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>ebd4547e-5141-4d82-ac87-5bb3d0d5f8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>0db73af5-84f5-4921-9d9d-d415963e70ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin/categories/create')]</value>
+      <webElementGuid>5f97f156-99bd-40c7-8afb-c64df4e6c731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>7f1f6d4c-03ef-4817-8308-0a37e4822e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin/categories/create' and (text() = '
+                Add            ' or . = '
+                Add            ')]</value>
+      <webElementGuid>f5c78078-9e98-43e3-a274-30355b1f90f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
