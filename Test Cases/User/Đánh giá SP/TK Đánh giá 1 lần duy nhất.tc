@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TK Đánh giá 1 lần duy nhất</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>051b338b-a273-43c6-a939-026b95b4cca6</testCaseGuid>
+</TestCaseEntity>

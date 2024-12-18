@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Đăng nhập</name>
+   <name>Tìm kiếm (Button)</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ce5b19a3-7fc3-47db-bce1-1d11cce3b84e</testCaseGuid>
+   <testCaseGuid>a60c479d-c834-4562-8e51-416d362c04bb</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e84e3870-981f-4a4d-8dec-cb878b818b66</variableId>
+      <variableId>91afc68f-ae67-4e91-8d75-3ae0cdec8401</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>de13bea0-5ae3-45e2-a31e-9b421cfb9e2d</variableId>
+      <variableId>5f075f63-c0ca-4cd2-b2f9-f28a2af192e2</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e84e3870-981f-4a4d-8dec-cb878b818b66</id>
+      <id>91afc68f-ae67-4e91-8d75-3ae0cdec8401</id>
       <masked>false</masked>
-      <name>username</name>
+      <name>nhap</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>de13bea0-5ae3-45e2-a31e-9b421cfb9e2d</id>
+      <id>5f075f63-c0ca-4cd2-b2f9-f28a2af192e2</id>
       <masked>false</masked>
-      <name>password</name>
+      <name>mess</name>
    </variable>
 </TestCaseEntity>

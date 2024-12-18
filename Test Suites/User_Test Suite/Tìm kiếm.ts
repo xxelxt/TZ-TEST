@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Tìm kiếm</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>964dcc4e-e1cd-4b85-aa4f-254f4fdd1f99</testSuiteGuid>
+   <testCaseLink>
+      <guid>c363d516-3b26-4ea5-bf56-3ed3674f6ad6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User/Tìm kiếm/Tìm kiếm (Button)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7be3ce80-5076-4128-8e6b-b4cc0fb3ef24</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_KQTimKiem</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7be3ce80-5076-4128-8e6b-b4cc0fb3ef24</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nhap</value>
+         <variableId>91afc68f-ae67-4e91-8d75-3ae0cdec8401</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7be3ce80-5076-4128-8e6b-b4cc0fb3ef24</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mess</value>
+         <variableId>5f075f63-c0ca-4cd2-b2f9-f28a2af192e2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e35db723-7153-452c-8726-ed7962a67d00</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>65029595-4a64-4645-99f0-85a5f951cc93</id>
+         <masked>false</masked>
+         <name>nhap</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/User/Tìm kiếm/Tìm kiếm (Enter)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e615b3de-1f24-467f-90c7-fd813ac2eeac</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_KQTimKiem</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e615b3de-1f24-467f-90c7-fd813ac2eeac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nhap</value>
+         <variableId>65029595-4a64-4645-99f0-85a5f951cc93</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e615b3de-1f24-467f-90c7-fd813ac2eeac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mess</value>
+         <variableId>3b6c8c36-3597-4189-bc4b-2b2db824cd62</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

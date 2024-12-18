@@ -18,16 +18,38 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-	
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/admin/login')
+WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/span_Language_arrow_carrot-down'))
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), password)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Vietnamese'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Page_TechZone/a_ng nhp'))
+
+WebUI.setText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_login'), 'nguyenmai')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_password'), '/0Nzv0zyX6g=')
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_ng nhp'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/li_Laptop'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Apple (MacBook)'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Apple MacBook Pro 14 inch (M2 Pro 16GB SS_afb997'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_Vit nh gi'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/label'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/p_Redo_ck-placeholder'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_Gi bnh lun'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/body_2             0                item 0 _797493'))
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TB Đánh giá khi đã login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8a72399-932e-4fca-b1ad-93dbbf98f636</testCaseGuid>
+</TestCaseEntity>

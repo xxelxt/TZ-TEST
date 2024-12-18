@@ -18,16 +18,36 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-	
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/admin/login')
+WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/span_Language_arrow_carrot-down'))
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), password)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Vietnamese'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Page_TechZone/a_ng nhp'))
+
+WebUI.setText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_login'), 'nguyenmai')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_password'), '/0Nzv0zyX6g=')
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_ng nhp'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/li_PC'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Workstation'))
+
+WebUI.click(findTestObject('Page_TechZone/a_Server Asus TS100-E11-PI4-2314041Z (E-231416GB RAM1TB HDD300W)'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_Vit nh gi'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/label'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_Gi bnh lun'))
+
+WebUI.verifyTextPresent('Đánh giá sản phẩm thành công', false)
 
 WebUI.closeBrowser()
 

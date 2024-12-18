@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tieptuc</name>
+   <tag></tag>
+   <elementGuidId>699df99b-41cf-4829-b5e0-ce171fb772ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnContinue > div.ubtn-inner > span.ubtn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnContinue']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#btnContinue</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1122ab2c-3fae-4040-a1ec-150354a70838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ubtn-text</value>
+      <webElementGuid>8dd11b3e-b2f2-4b47-b9ae-1c95c569701f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếp tục</value>
+      <webElementGuid>124ca854-ea9d-45ec-ba30-2c2c07c30630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnContinue&quot;)/div[@class=&quot;ubtn-inner&quot;]/span[@class=&quot;ubtn-text&quot;]</value>
+      <webElementGuid>1e1d6c1f-40df-4981-b6cc-a6d277532b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btnContinue']/div/span</value>
+      <webElementGuid>9d01751d-cfeb-4567-a5f4-3590740bd6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy thanh toán'])[1]/following::span[1]</value>
+      <webElementGuid>8c3e2a54-4d0e-416a-befe-3de32e6ec4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VND'])[4]/following::span[2]</value>
+      <webElementGuid>17b7b127-4102-4781-ba67-a9e9c4850543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phát triển bởi VNPAY © 2024'])[1]/preceding::span[1]</value>
+      <webElementGuid>17e18624-97d9-48a1-911f-0ddb4679c788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hotrovnpay@vnpay.vn'])[1]/preceding::span[2]</value>
+      <webElementGuid>0b1bf039-cee1-49be-b8dd-0175d2db3a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tiếp tục']/parent::*</value>
+      <webElementGuid>49b18169-3f9b-42ad-8a81-27dd932622d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/span</value>
+      <webElementGuid>9143764a-c3bc-43d9-8e70-8e1a16d66766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tiếp tục' or . = 'Tiếp tục')]</value>
+      <webElementGuid>3a18ae03-8462-4aa5-83a4-b85ff315c172</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

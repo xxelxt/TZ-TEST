@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Đăng nhập - Đăng xuất</name>
+   <name>SP Yêu thích</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>776dc114-007b-4761-b9ab-ffb4fc3a79de</testSuiteGuid>
+   <testSuiteGuid>4bfdd812-a8fb-42fb-94f9-91ff02ee75e4</testSuiteGuid>
    <testCaseLink>
-      <guid>686e94ed-06af-427b-8d20-de5f61a20b7d</guid>
+      <guid>fcae2fde-4c9d-4a75-a691-3e5ded4cb946</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Admin/Đăng nhập</testCaseId>
+      <testCaseId>Test Cases/User/SP Yêu thích/Thêm yêu thích thành công</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5311f29b-9aeb-451b-957f-246a66f93de9</guid>
+      <guid>f35d60e2-a13f-4013-bfdc-c8bf0b379130</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Admin/Đăng xuất</testCaseId>
+      <testCaseId>Test Cases/User/SP Yêu thích/Thêm yêu thích thất bại</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>63510951-278c-4532-8e5d-cf999de45186</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User/SP Yêu thích/Xoá SP yêu thích thành công</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

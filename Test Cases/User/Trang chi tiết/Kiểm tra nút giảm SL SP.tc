@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kiểm tra nút giảm SL SP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af7ef3b8-6eb6-45c3-bba8-ecdc4b482efa</testCaseGuid>
+</TestCaseEntity>

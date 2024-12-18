@@ -18,16 +18,20 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-	
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/admin/login')
+WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Laptop'))
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), password)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Apple MacBook Pro 14 inch (M2 Pro 16GB SS_afb997'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/Page_TechZone/input._qty'), insert)
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_THM VO GI HNG'))
+
+WebUI.verifyElementText(msg, '')
 
 WebUI.closeBrowser()
 

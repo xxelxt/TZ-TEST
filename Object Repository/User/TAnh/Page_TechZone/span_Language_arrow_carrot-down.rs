@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Language_arrow_carrot-down</name>
+   <tag></tag>
+   <elementGuidId>0097ab77-a8a4-4b81-b459-da48cd751cdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header__top__right > div.header__top__right__language > span.arrow_carrot-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=banner >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b0db8b1d-6bed-47ef-950b-9463b129fcd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow_carrot-down</value>
+      <webElementGuid>5e5c7fb7-0e16-4a37-8b3d-da7528c08770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header&quot;]/div[@class=&quot;header__top&quot;]/div[@class=&quot;container mb-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6&quot;]/div[@class=&quot;header__top__right&quot;]/div[@class=&quot;header__top__right__language&quot;]/span[@class=&quot;arrow_carrot-down&quot;]</value>
+      <webElementGuid>617a878e-c1d1-4bb0-b173-8ed69c70b9a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>0e8b37f2-196d-4a80-81c1-4a91890e468a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

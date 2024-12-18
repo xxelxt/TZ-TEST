@@ -18,16 +18,30 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-	
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/admin/login')
+WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/span_Language_arrow_carrot-down'))
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), password)
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Vietnamese'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_ng nhp'))
+
+WebUI.setText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_login'), 'nguyenmai')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_password'), '/0Nzv0zyX6g=')
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/button_ng nhp'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Laptop'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Dell XPS 15 9530 (71015716) (i7-13700H16G_9bba2f'))
+
+WebUI.click(findTestObject('Object Repository/Page_TechZone/i_THM VO GI HNG_fas fa-heart'))
+
+WebUI.verifyTextNotPresent('Đã thêm sản phẩm vào danh sách yêu thích', false)
 
 WebUI.closeBrowser()
 

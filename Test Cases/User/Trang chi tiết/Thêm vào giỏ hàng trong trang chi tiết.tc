@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Đăng nhập</name>
+   <name>Thêm vào giỏ hàng trong trang chi tiết</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ce5b19a3-7fc3-47db-bce1-1d11cce3b84e</testCaseGuid>
+   <testCaseGuid>5a4a2cdf-452f-4a9c-8a9c-c6825103e968</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e84e3870-981f-4a4d-8dec-cb878b818b66</variableId>
+      <variableId>a8c45b3c-d73b-43ac-96f2-3d787bbe15c1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>de13bea0-5ae3-45e2-a31e-9b421cfb9e2d</variableId>
+      <variableId>d33b297c-0ca0-4111-930d-041d547ab797</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e84e3870-981f-4a4d-8dec-cb878b818b66</id>
+      <id>a8c45b3c-d73b-43ac-96f2-3d787bbe15c1</id>
       <masked>false</masked>
-      <name>username</name>
+      <name>insert</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>de13bea0-5ae3-45e2-a31e-9b421cfb9e2d</id>
+      <id>d33b297c-0ca0-4111-930d-041d547ab797</id>
       <masked>false</masked>
-      <name>password</name>
+      <name>msg</name>
    </variable>
 </TestCaseEntity>

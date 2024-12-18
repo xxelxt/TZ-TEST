@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_dongy</name>
+   <tag></tag>
+   <elementGuidId>37df2309-36a2-49e5-b7f1-8c065f8ee917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAgree > div.ubtn-inner > span.ubtn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAgree']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Đồng ý &amp; Tiếp tục&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ebfc9060-fa81-4929-92f0-f7ea8b47d663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ubtn-text</value>
+      <webElementGuid>412e385e-db10-45f6-a311-6f64438b90d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đồng ý &amp; Tiếp tục</value>
+      <webElementGuid>f4b2f8fd-e69d-416a-a1fa-0e6d20cb1f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAgree&quot;)/div[@class=&quot;ubtn-inner&quot;]/span[@class=&quot;ubtn-text&quot;]</value>
+      <webElementGuid>b0f9d1fd-900f-4580-bc0a-0a926f17030a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btnAgree']/div/span</value>
+      <webElementGuid>96f995e4-e3c4-4b7f-9d25-d275058db62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không đồng ý'])[1]/following::span[1]</value>
+      <webElementGuid>4f095299-8dfb-4374-9365-a3e0a1dee8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tại đây'])[1]/following::span[2]</value>
+      <webElementGuid>c3dfc132-5d57-41d0-807f-88bf2b622b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đồng ý &amp; Tiếp tục']/parent::*</value>
+      <webElementGuid>8ebfcf9a-7630-416d-8cd6-9758daef3083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[3]/div/div[2]/a/div/span</value>
+      <webElementGuid>cf8569e9-6fc9-4b43-b845-efcefd9a8b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Đồng ý &amp; Tiếp tục' or . = 'Đồng ý &amp; Tiếp tục')]</value>
+      <webElementGuid>e8567e0e-fb1b-4ff1-96e1-5ba0bf171c05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

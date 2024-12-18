@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apple MacBook Pro 14 inch (M2 Pro 16GB SS_afb997</name>
+   <tag></tag>
+   <elementGuidId>daec3ec8-1d99-45bb-a537-c8c6cc7b5e34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div/div/div[2]/h6/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Apple MacBook Pro 14 inch (M2 Pro/ 16GB/ SSD 512GB)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc6d447c-33f4-4bc1-a7ed-67ba36adf4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/3</value>
+      <webElementGuid>05b50d53-b04e-414f-8c43-c9ccd307a24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple MacBook Pro 14 inch (M2 Pro/ 16GB/ SSD 512GB)</value>
+      <webElementGuid>9d080d7f-0a7a-479d-b926-0878d7b5424a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col-lg-4 col-md-6 col-sm-6&quot;]/div[@class=&quot;product__item&quot;]/div[@class=&quot;product__item__text&quot;]/h6[1]/a[1]</value>
+      <webElementGuid>be6be042-7cd9-4eb2-abc5-99b599c6f12f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div/div/div[2]/h6/a</value>
+      <webElementGuid>7765c7c5-c1c4-44e3-a317-815d519c554a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apple MacBook Pro 14 inch (M2 Pro/ 16GB/ SSD 512GB)')]</value>
+      <webElementGuid>5fe14709-72ea-42e8-a845-a6de3a6564c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z -> A'])[2]/following::a[3]</value>
+      <webElementGuid>b3e56c8e-8237-471b-a513-40a7b70a4de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A -> Z'])[2]/following::a[3]</value>
+      <webElementGuid>81a71955-33e5-481f-91c3-721fe8b4a6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple MacBook Air 15.3 inch M2 (8GB/ 256GB SSD/8C CPU/10C GPU)'])[1]/preceding::a[3]</value>
+      <webElementGuid>87165af9-e984-4644-8969-238d08e63448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple MacBook Pro 14 inch 2023 M3 (16GB/512GB SSD)'])[1]/preceding::a[6]</value>
+      <webElementGuid>60aefab4-4d3c-4f6a-ab56-43d114cd3fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple MacBook Pro 14 inch (M2 Pro/ 16GB/ SSD 512GB)']/parent::*</value>
+      <webElementGuid>9bf6dbc7-1eb3-4604-9ecd-9b97a06a5d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/products/3')])[2]</value>
+      <webElementGuid>af4bc198-bb2e-48a9-a0c4-4122971610df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6/a</value>
+      <webElementGuid>111fb3c7-19ba-4dda-b3af-bde742ce1751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/3' and (text() = 'Apple MacBook Pro 14 inch (M2 Pro/ 16GB/ SSD 512GB)' or . = 'Apple MacBook Pro 14 inch (M2 Pro/ 16GB/ SSD 512GB)')]</value>
+      <webElementGuid>f62244ad-23f9-4027-9183-3eb9fd62f1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div[7]/div/div[2]/h6/a</value>
+      <webElementGuid>8f88ee3a-73cd-451b-b8cb-052fa4a77252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Surface Pro X SQ1/8GB/128GB LTE'])[1]/following::a[3]</value>
+      <webElementGuid>3de0fff4-91be-4f80-9592-cad38e29ddfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo ThinkPad L14 Gen 4 (21H1003AVA) (i7-1360P/16GB RAM/512GB SSD)'])[1]/following::a[6]</value>
+      <webElementGuid>64cb12f3-e3ec-4129-97ff-2022cec9f633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/h6/a</value>
+      <webElementGuid>7d354775-06c6-46b3-b9ee-370f73d315b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

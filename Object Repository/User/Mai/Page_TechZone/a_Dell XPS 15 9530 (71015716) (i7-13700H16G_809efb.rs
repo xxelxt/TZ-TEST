@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dell XPS 15 9530 (71015716) (i7-13700H16G_809efb</name>
+   <tag></tag>
+   <elementGuidId>22e4a48e-0ba0-40b3-819c-cee37b8d390b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div[2]/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .product__item > .product__item__pic > .product__item__pic__hover > li > .wishlist</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a29faaa0-6c2c-4c09-a27e-e64eaf672097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>ca0b389e-386d-44a0-8f16-4fd8034ee51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-productid</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>3367a394-bac9-4a7a-abaa-252a67c72137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wishlist</value>
+      <webElementGuid>b2b70f07-82a4-4c84-98db-5f2e6f72646e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col-lg-4 col-md-6 col-sm-6&quot;]/div[@class=&quot;product__item&quot;]/div[@class=&quot;product__item__pic set-bg&quot;]/ul[@class=&quot;product__item__pic__hover&quot;]/li[1]/a[@class=&quot;wishlist&quot;]</value>
+      <webElementGuid>b5d1ef3f-43e1-4456-9bf0-5fc54db4af85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div[2]/div/div/ul/li/a</value>
+      <webElementGuid>2feb1d64-4bd9-46eb-baf5-72f92d219bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dell XPS 15 9530 (71015716) (i7-13700H/16GB RAM/512GB SSD/RTX4050 6G)'])[1]/following::a[1]</value>
+      <webElementGuid>57666d88-1e11-4bb2-a9a2-a5d6636c6c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z -> A'])[2]/following::a[4]</value>
+      <webElementGuid>23067d05-2207-4b09-84fe-7f2ff6fb8fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dell Inspiron 14 5430 (71015633) (i7-1360P/16GB RAM/1TB SSD/RTX2050 4G)'])[1]/preceding::a[2]</value>
+      <webElementGuid>8b87e0d9-5b7a-444a-bbc3-f71eebd4d3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo Yoga Slim 6 14IRH8 (83E00008VN) (i7-13700H/16GB RAM/512GB SSD)'])[1]/preceding::a[5]</value>
+      <webElementGuid>a968d660-d2c4-4b08-a455-59fc8d0b5c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
+      <webElementGuid>f3f7e888-4b3d-4bf0-a1e7-bd31eb4a0631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/ul/li/a</value>
+      <webElementGuid>92e9208d-a3f1-48af-949e-88e232e3b510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)']</value>
+      <webElementGuid>2244e016-0adc-4411-a79f-a5d45ec2c1e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

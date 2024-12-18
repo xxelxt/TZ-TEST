@@ -18,16 +18,31 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-	
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/admin/login')
+WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Username_username'), username)
+WebUI.click(findTestObject('Object Repository/User/Lan/Page_TechZone/a_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), password)
+WebUI.click(findTestObject('Object Repository/User/Lan/Page_TechZone/button_Create an account'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Admin/Page_Login to TechZone admin page/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Become a member of TechZone_firstname'), 'Lan')
+
+WebUI.setText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Become a member of TechZone_lastname'), 'Lê')
+
+WebUI.setText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Become a member of TechZone_username'), 'Lan1624')
+
+WebUI.setText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Become a member of TechZone_email'), 'lan2004@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Become a member of TechZone_password'), '4nvbrPglk7k=')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Become a member of TechZone_passwordagain'), 
+    'iGDxf8hSRT4=')
+
+WebUI.click(findTestObject('Object Repository/User/Lan/Page_TechZone/button_Register'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/User/Lan/Page_TechZone/div_Password doesnt match'))
 
 WebUI.closeBrowser()
 

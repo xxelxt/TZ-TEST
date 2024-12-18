@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Đặt hàng</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4b2b96ed-b2f0-41e7-b170-5771db27888d</testSuiteGuid>
+   <testCaseLink>
+      <guid>a5d3394b-2299-423c-ab09-847d3992163e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User/Đặt hàng - Thanh toán/Đặt hàng</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>93e699fe-7544-498d-82ea-de8f74314bb0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_DatHang</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>93e699fe-7544-498d-82ea-de8f74314bb0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>diachi</value>
+         <variableId>29cfc8a0-dde3-40eb-811c-24da1230844a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93e699fe-7544-498d-82ea-de8f74314bb0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>quan</value>
+         <variableId>de7fdc88-50ee-4ec1-930c-e3f5e4be3956</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93e699fe-7544-498d-82ea-de8f74314bb0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>thanhpho</value>
+         <variableId>16c35645-1acb-436d-922d-a068b527ccdf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>511fe53b-fc6a-4b47-a63c-f4b7d0052cf4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93e699fe-7544-498d-82ea-de8f74314bb0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sdt</value>
+         <variableId>cea0fbb3-839c-4701-8880-a22588214044</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>063042dc-6387-4bb1-907c-d2e05fe0ec27</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User/Đặt hàng - Thanh toán/Đặt hàng VNP</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>
