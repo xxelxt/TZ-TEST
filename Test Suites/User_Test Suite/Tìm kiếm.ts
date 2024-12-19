@@ -43,13 +43,6 @@
       <guid>e35db723-7153-452c-8726-ed7962a67d00</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <iterationNameVariable>
-         <defaultValue>''</defaultValue>
-         <description></description>
-         <id>65029595-4a64-4645-99f0-85a5f951cc93</id>
-         <masked>false</masked>
-         <name>nhap</name>
-      </iterationNameVariable>
       <testCaseId>Test Cases/User/Tìm kiếm/Tìm kiếm (Enter)</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

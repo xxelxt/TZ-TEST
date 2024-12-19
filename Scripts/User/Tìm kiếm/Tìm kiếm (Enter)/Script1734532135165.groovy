@@ -23,11 +23,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.setText(findTestObject('Object Repository/Page_TechZone/input_All Products_search'), nhap)
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_Language'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_TechZone/input_All Products_search'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/a_Vietnamese'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/button_Search'))
+WebUI.setText(findTestObject('Object Repository/User/Mai/Page_TechZone/input_All Products_search'), nhap)
+
+WebUI.sendKeys(findTestObject('Object Repository/User/Mai/Page_TechZone/input_All Products_search'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/button_Search'))
 
 WebUI.verifyTextPresent(mess, false)
 

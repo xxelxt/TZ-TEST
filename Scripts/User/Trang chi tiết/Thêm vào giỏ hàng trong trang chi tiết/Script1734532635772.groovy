@@ -21,17 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/')
+WebUI.navigateToUrl('https://techzone.serv00.net/products/3')
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Laptop'))
+WebUI.setText(findTestObject('Object Repository/User/Mai/Page_TechZone/input_-_qty'), insert)
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Apple MacBook Pro 14 inch (M2 Pro 16GB SS_afb997'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/button_THM VO GI HNG'))
 
-WebUI.setText(findTestObject('Object Repository/Page_TechZone/input._qty'), insert)
-
-WebUI.click(findTestObject('Object Repository/Page_TechZone/button_THM VO GI HNG'))
-
-WebUI.verifyElementText(msg, '')
+WebUI.verifyTextPresent(msg, false)
 
 WebUI.closeBrowser()
 

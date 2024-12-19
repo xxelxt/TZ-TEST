@@ -20,29 +20,29 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://techzone.serv00.net/?fbclid=IwZXh0bgNhZW0CMTAAAR11GWhqNmR9-iqNYBLA89fdWtND6Rc7xenmZae5a2APCwSfThom2W5HLnA_aem_8QUgh-z72sinKz76T7xqLw')
+WebUI.navigateToUrl('https://techzone.serv00.net')
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/li_Laptop'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/li_Laptop'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Apple (MacBook)'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/a_Apple (MacBook)'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Apple MacBook Pro 14 inch (M2 Pro 16GB SS_afb997'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/a_Apple MacBook Pro 14 inch (M2 Pro 16GB SS_afb997'))
 
-WebUI.setText(findTestObject('Object Repository/Page_TechZone/input_-_qty'), '5')
+WebUI.setText(findTestObject('Object Repository/User/Mai/Page_TechZone/input_-_qty'), '5')
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_-'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_-'))
 
 WebUI.closeBrowser()
 

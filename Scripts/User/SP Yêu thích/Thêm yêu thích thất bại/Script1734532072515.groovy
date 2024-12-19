@@ -23,21 +23,21 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://techzone.serv00.net/')
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/span_Language_arrow_carrot-down'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/span_Language_arrow_carrot-down'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Vietnamese'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/a_Vietnamese'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_ng nhp'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/a_ng nhp'))
 
-WebUI.setText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_login'), 'nguyenmai')
+WebUI.setText(findTestObject('Object Repository/User/Mai/Page_TechZone/input_ng nhp ti khon_login'), 'nguyenmai')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_TechZone/input_ng nhp ti khon_password'), '/0Nzv0zyX6g=')
+WebUI.setEncryptedText(findTestObject('Object Repository/User/Mai/Page_TechZone/input_ng nhp ti khon_password'), '/0Nzv0zyX6g=')
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/button_ng nhp'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/button_ng nhp'))
 
-WebUI.click(findTestObject('Object Repository/Page_TechZone/a_Laptop'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/a_Laptop'))
 
-WebUI.click(findTestObject('Page_TechZone/icon_heart'))
+WebUI.click(findTestObject('Object Repository/User/Mai/Page_TechZone/icon_heart'))
 
 WebUI.verifyTextNotPresent('Đã thêm sản phẩm vào danh sách yêu thích', false)
 

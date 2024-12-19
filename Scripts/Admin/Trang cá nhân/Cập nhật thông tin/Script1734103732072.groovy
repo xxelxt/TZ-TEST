@@ -45,7 +45,8 @@ WebUI.click(findTestObject('Object Repository/Admin/Page_Profile/input_Joining d
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Admin/Page_Profile/input_New password_password'), 'IY3bszLmflQ=')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin/Page_Profile/input_Confirm new password_passwordagain'), 'IY3bszLmflQ=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Admin/Page_Profile/input_Confirm new password_passwordagain'), 
+    'IY3bszLmflQ=')
 
 WebUI.click(findTestObject('Object Repository/Admin/Page_Profile/button_Update'))
 
@@ -60,5 +61,4 @@ WebUI.click(findTestObject('Object Repository/Admin/Page_Profile/button_Submit')
 WebUI.delay(3)
 
 WebUI.closeBrowser()
-
 

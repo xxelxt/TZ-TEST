@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://techzone.serv00.net/')
 
 WebUI.click(findTestObject('Object Repository/User/Lan/Page_TechZone/a_Login'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Login to your account_password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/User/Lan/Page_TechZone/input_Login to your account_password'), 'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/User/Lan/Page_TechZone/button_Login'))
 

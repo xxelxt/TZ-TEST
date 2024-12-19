@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Admin/Page_Banner_Edit/span_Banner
 
 WebUI.click(findTestObject('Object Repository/Admin/Page_Banner_Edit/a_Edit'))
 
-String imagePath = 'E:/rkive/7/Software Testing & QA/Katalon Studio/TechZone/Test File/Banner.png'
+String imagePath = 'E:/rkive/7/Software Testing & QA/Katalon Studio/TechZone/Test File/Banner.jpeg'
 
 WebUI.uploadFile(findTestObject('Object Repository/Admin/Page_Banner_Add/input_Image_imageInput'), imagePath)
 

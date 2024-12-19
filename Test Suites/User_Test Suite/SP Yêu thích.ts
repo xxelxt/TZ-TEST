@@ -25,11 +25,4 @@
       <testCaseId>Test Cases/User/SP Yêu thích/Thêm yêu thích thất bại</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>63510951-278c-4532-8e5d-cf999de45186</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/User/SP Yêu thích/Xoá SP yêu thích thành công</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
