@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mainboard Asus PRO WS W790E-SAGE SE_fa fa_8f1056</name>
+   <tag></tag>
+   <elementGuidId>c624f920-bf1d-41c9-beda-cc117cd59dde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div[2]/div/div/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2e48b285-2a00-4780-b941-fe9f96f0a72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-retweet</value>
+      <webElementGuid>55615c80-6cb9-405f-8996-2400445a476a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col-lg-4 col-md-6 col-sm-6&quot;]/div[@class=&quot;product__item&quot;]/div[@class=&quot;product__item__pic set-bg&quot;]/ul[@class=&quot;product__item__pic__hover&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-retweet&quot;]</value>
+      <webElementGuid>603476a9-2b0e-45e9-a151-e392c26c63f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div[2]/div/div/ul/li[2]/a/i</value>
+      <webElementGuid>0633200a-6f93-4a42-9ff9-bcc064d8a148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]/a/i</value>
+      <webElementGuid>68158a6d-febd-4b42-8931-759f22eab16b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>9fc0ddd7-f0e1-40f3-9cfc-eebc31ef5fcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div[2]/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b8b104c7-7d42-4348-b419-0a879dd11d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/24</value>
+      <webElementGuid>c4f7c221-52e2-4234-bd99-397fb172e01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col-lg-4 col-md-6 col-sm-6&quot;]/div[@class=&quot;product__item&quot;]/div[@class=&quot;product__item__pic set-bg&quot;]/ul[@class=&quot;product__item__pic__hover&quot;]/li[2]/a[1]</value>
+      <webElementGuid>681a0db6-1ad0-460e-a204-894a618c1001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>9ba7832c-0c65-4ed3-a9a7-bf05c8299d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Lenovo ThinkCentre AIO Neo 30a 24 Gen 3 (i7-1260P/8GB RAM/512GB SSD)'])[1]/following::a[2]</value>
+      <webElementGuid>7357dfbc-e49e-4dfc-a2d9-fc62145fca40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z -> A'])[2]/following::a[5]</value>
+      <webElementGuid>4e888a13-1ddb-481f-a9e1-dd8e8d76735c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple Mac Mini (MMFK3SA/A) (M2 8C CPU/10C GPU/8G RAM/512GB SSD)'])[1]/preceding::a[1]</value>
+      <webElementGuid>495ca5ba-a1ed-4678-9d07-f0ac8489aa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mini PC Asus Intel NUC13 Prodesk NUC13VYKI5 (i5-1340P/2XDDR4-3200/2XNVME, SATA)'])[1]/preceding::a[4]</value>
+      <webElementGuid>4edebde7-7013-432a-bf8f-78d439610185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/products/24')]</value>
+      <webElementGuid>fa7baa7d-3667-469b-8ea5-00ee35fe78d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>d9a40990-c771-4edf-9f04-5d58cb1b443b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/24']</value>
+      <webElementGuid>75de6577-cad7-4cc3-b86b-8353985d8c0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

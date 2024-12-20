@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xóa sản phẩm có duy nhất trong giỏ hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95913897-3173-4624-ba6d-4663efdda761</testCaseGuid>
+</TestCaseEntity>

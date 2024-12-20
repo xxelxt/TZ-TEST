@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thanh toán không thành công khi nhập sai định dạng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a382cd4-9c6b-4bfe-9b05-dd77aa4c3d61</testCaseGuid>
+</TestCaseEntity>

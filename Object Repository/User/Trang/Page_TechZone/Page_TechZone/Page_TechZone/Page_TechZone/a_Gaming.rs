@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gaming</name>
+   <tag></tag>
+   <elementGuidId>e706e6cd-a36a-4bb9-a076-742028665e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item-show.active > div.item-show_item > p.item-show_item-content > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Gaming')])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Gaming&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e96687e2-c886-4c41-ba5b-9651f242d466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/subcategories/5</value>
+      <webElementGuid>0985fedf-b52a-4d04-8fb8-9164c0621228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gaming</value>
+      <webElementGuid>601fad46-0309-4fbd-8d33-dfa809732fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;hero&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3&quot;]/div[@class=&quot;hero__categories&quot;]/ul[@class=&quot;submenu-list&quot;]/div[@class=&quot;item-show active&quot;]/div[@class=&quot;item-show_item&quot;]/p[@class=&quot;item-show_item-content&quot;]/a[1]</value>
+      <webElementGuid>823b6c2e-f9a8-4e1e-bab2-459ffb33a9cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Gaming')])[9]</value>
+      <webElementGuid>261ba6e7-9eb2-4f58-b1ae-354e44c186b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC'])[3]/following::a[1]</value>
+      <webElementGuid>311953b9-6af4-4cdd-b654-f3d1109df35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surface'])[3]/following::a[2]</value>
+      <webElementGuid>949bbb1e-683a-4785-9913-a822f2582dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workstation'])[3]/preceding::a[1]</value>
+      <webElementGuid>4f70cdca-16c0-46ed-b071-e86e49568fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Văn phòng - Làm việc'])[3]/preceding::a[2]</value>
+      <webElementGuid>d67126a4-947e-4d92-9e3a-bd084a8bf19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/subcategories/5')])[3]</value>
+      <webElementGuid>8dcb4324-c993-4923-90bd-fa7aa50864eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p[2]/a</value>
+      <webElementGuid>78a4ea43-3951-4da3-bf4d-134b6a467423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/subcategories/5' and (text() = 'Gaming' or . = 'Gaming')]</value>
+      <webElementGuid>f1e47254-867a-4345-a1e0-eb223eb96dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

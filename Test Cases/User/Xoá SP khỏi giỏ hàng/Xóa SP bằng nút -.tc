@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xóa SP bằng nút -</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66ef6264-289c-4984-8dec-3ebcbc80565b</testCaseGuid>
+</TestCaseEntity>

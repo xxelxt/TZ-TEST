@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Z - A_fa fa-retweet</name>
+   <tag></tag>
+   <elementGuidId>d43cf724-f8fb-4dc7-b8c5-2eae1a84abb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-retweet</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div/div/div/ul/li[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3fa4d259-a58e-4557-99ea-bcbee942ad7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-retweet</value>
+      <webElementGuid>db997137-7371-46b5-8c9f-fd538705271a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col-lg-4 col-md-6 col-sm-6&quot;]/div[@class=&quot;product__item&quot;]/div[@class=&quot;product__item__pic set-bg&quot;]/ul[@class=&quot;product__item__pic__hover&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-retweet&quot;]</value>
+      <webElementGuid>1f7db41c-c907-4440-bafd-5e85f98d2066</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div/div/div/ul/li[2]/a/i</value>
+      <webElementGuid>baffa142-61c9-47ec-adb2-a91fa07a7026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/i</value>
+      <webElementGuid>0403b470-ef42-47e9-8679-640e88f04f62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

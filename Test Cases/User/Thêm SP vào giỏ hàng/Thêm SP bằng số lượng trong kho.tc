@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm SP bằng số lượng trong kho</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5f5b0fb-d0bb-4e6a-b187-6e02cc1a3d97</testCaseGuid>
+</TestCaseEntity>

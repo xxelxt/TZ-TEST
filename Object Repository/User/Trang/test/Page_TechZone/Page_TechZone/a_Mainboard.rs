@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mainboard</name>
+   <tag></tag>
+   <elementGuidId>5eda145a-3dba-45d0-a390-1ca6fd2ff28b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item-show.active > div.item-show_item > p.item-show_item-content > a:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Mainboard')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mainboard&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>afd63331-7de9-4e0a-82b9-e397b4396807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/subcategories/14</value>
+      <webElementGuid>4a096ff6-c5c8-40a8-ac1f-cd3d531db810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mainboard</value>
+      <webElementGuid>a546d88d-7176-49f9-af59-64b22e73b90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;hero&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3&quot;]/div[@class=&quot;hero__categories&quot;]/ul[@class=&quot;submenu-list&quot;]/div[@class=&quot;item-show active&quot;]/div[@class=&quot;item-show_item&quot;]/p[@class=&quot;item-show_item-content&quot;]/a[2]</value>
+      <webElementGuid>80664973-169d-4cc5-8ac3-79aab48d4bf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Mainboard')])[3]</value>
+      <webElementGuid>399f161b-e274-4d3d-9638-22250b432201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPU'])[3]/following::a[1]</value>
+      <webElementGuid>18d8719c-e829-41d0-853a-343d724d4e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linh kiện máy tính'])[3]/following::a[2]</value>
+      <webElementGuid>f90350e6-3181-41fb-93a1-f735a3c21117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RAM'])[3]/preceding::a[1]</value>
+      <webElementGuid>a01f13be-ec77-4746-9c2d-05d3d72f6b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VGA'])[3]/preceding::a[2]</value>
+      <webElementGuid>d0f33c7b-74d4-40b3-9902-1771e0a24072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/subcategories/14')])[3]</value>
+      <webElementGuid>a9796360-aef4-4275-a3d2-587cdd8e6255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/p[2]/a[2]</value>
+      <webElementGuid>7a12afe4-8f6d-4764-b986-3ed889fad611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/subcategories/14' and (text() = 'Mainboard' or . = 'Mainboard')]</value>
+      <webElementGuid>4be7d2a4-283a-4707-885a-962b064a3c5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

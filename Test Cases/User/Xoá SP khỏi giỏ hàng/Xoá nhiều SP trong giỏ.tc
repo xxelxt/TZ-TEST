@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xoá nhiều SP trong giỏ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8a7cfc6-5825-4baa-9f4d-2b3533a55ddb</testCaseGuid>
+</TestCaseEntity>

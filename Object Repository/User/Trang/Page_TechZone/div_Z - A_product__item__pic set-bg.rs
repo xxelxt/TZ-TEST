@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Z - A_product__item__pic set-bg</name>
+   <tag></tag>
+   <elementGuidId>1d6f7e12-9107-473c-a12c-909176bead4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product__item__pic.set-bg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-list']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.product__item__pic >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b254524b-47a8-4f0a-bdc7-31d7e3ec16dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product__item__pic set-bg</value>
+      <webElementGuid>808fe627-da25-4eda-8ed4-0d05edff8ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-setbg</name>
+      <type>Main</type>
+      <value>user_asset/images/products/QJ2q-76266_laptop_dell_xps_15_9530__71015716_.jpg</value>
+      <webElementGuid>d9eeaf7b-7440-4235-90f9-e665d7f235d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col-lg-4 col-md-6 col-sm-6&quot;]/div[@class=&quot;product__item&quot;]/div[@class=&quot;product__item__pic set-bg&quot;]</value>
+      <webElementGuid>27c644d8-c557-4cc4-a048-26ab4fcb82b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-list']/div/div/div</value>
+      <webElementGuid>c0b911bd-9293-4b0a-b15e-d527263ce669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z -> A'])[2]/following::div[4]</value>
+      <webElementGuid>2d8f5b54-34d5-4238-88ad-79d312bbf700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A -> Z'])[2]/following::div[4]</value>
+      <webElementGuid>071e2c26-4665-4eb8-a874-d862c42b2c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dell XPS 15 9530 (71015716) (i7-13700H/16GB RAM/512GB SSD/RTX4050 6G)'])[1]/preceding::div[1]</value>
+      <webElementGuid>7bc406f3-ccba-482b-a80e-b9bfcf58052e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dell Inspiron 14 5430 (71015633) (i7-1360P/16GB RAM/1TB SSD/RTX2050 4G)'])[1]/preceding::div[5]</value>
+      <webElementGuid>2f17242a-1014-43ba-89a8-dbf80332697a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>dd043599-7055-4491-8d9f-8df941193e25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

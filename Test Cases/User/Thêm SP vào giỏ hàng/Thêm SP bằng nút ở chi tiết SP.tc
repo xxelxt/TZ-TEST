@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm SP bằng nút ở chi tiết SP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4191966-1c7b-4e2c-8aa8-e900afe53cd2</testCaseGuid>
+</TestCaseEntity>

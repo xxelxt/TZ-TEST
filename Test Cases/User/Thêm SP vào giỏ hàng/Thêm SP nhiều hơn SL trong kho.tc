@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm SP nhiều hơn SL trong kho</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c5de76f-e5d0-4f70-a17b-33a064b3eeac</testCaseGuid>
+</TestCaseEntity>

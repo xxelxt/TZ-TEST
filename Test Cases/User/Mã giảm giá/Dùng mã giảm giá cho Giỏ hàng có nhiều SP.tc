@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dùng mã giảm giá cho Giỏ hàng có nhiều SP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ef5821b-e6c4-49e6-a927-f2830b754f17</testCaseGuid>
+</TestCaseEntity>

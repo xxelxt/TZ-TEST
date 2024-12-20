@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm 1 SP hợp lệ vào giỏ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d008f825-c20c-4dc1-8b62-cc3f80f2f675</testCaseGuid>
+</TestCaseEntity>

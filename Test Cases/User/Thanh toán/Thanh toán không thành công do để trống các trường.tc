@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thanh toán không thành công do để trống các trường</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fcdedccb-99bf-4155-a8e8-2f97499951a3</testCaseGuid>
+</TestCaseEntity>

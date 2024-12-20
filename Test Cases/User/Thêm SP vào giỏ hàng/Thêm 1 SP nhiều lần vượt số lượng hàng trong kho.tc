@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm 1 SP nhiều lần vượt số lượng hàng trong kho</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9605ab32-40ab-4dc3-99d1-eaf3a149016c</testCaseGuid>
+</TestCaseEntity>
